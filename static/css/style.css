@@ -1,4 +1,9 @@
-.jumbotron {
-    background-image: url("https://github.com/nikkiheaston/Belly-Button-Biodiversity/blob/main/static/images/burgers.jpg");
+    .jumbotron {
+    background-image: url("../images/tomato.jpg");
     background-size: cover;
-}
+    color: #f7f7f7
+    }
+
+   .container {
+    background-color: aqua;
+   }
