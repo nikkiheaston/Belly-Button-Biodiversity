@@ -8,13 +8,13 @@ To view this data - a Python server must be run.
 Using Plotly, three main graphs are showcased:
 
  - A bar chart showing the Top 10 Bacteria Cultures Found
- 
+![Bar Chart](https://github.com/nikkiheaston/Belly-Button-Biodiversity/blob/main/Resources/Bar_graph.PNG) 
 
  - A gauge chart showing the belly button frequency of the test subject
-
+![Gauge Chart](https://github.com/nikkiheaston/Belly-Button-Biodiversity/blob/main/Resources/Gauge_chart.PNG) 
 
  - A bubble chart with hover text 
-
+![Bubble Chart](https://github.com/nikkiheaston/Belly-Button-Biodiversity/blob/main/Resources/Bubble_chart.PNG) 
 
  A panel with demographic info is also shown 
-
+![Demo Panel](https://github.com/nikkiheaston/Belly-Button-Biodiversity/blob/main/Resources/Demo_panel.PNG)
